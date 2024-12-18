@@ -105,7 +105,7 @@ async def start(client, message):
         await m.edit_text("ꜱᴛᴀʀᴛɪɴɢ ʙᴀʙʏ...")
         await asyncio.sleep(0.4)
         await m.delete()        
-        m=await message.reply_sticker("CAACAgUAAxkBAAECroBmQKMAAQ-Gw4nibWoj_pJou2vP1a4AAlQIAAIzDxlVkNBkTEb1Lc4eBA") 
+        m=await message.reply_sticker("CAACAgQAAxkBAAIESGdckMdJQ4Ua86NE0Wm5WjqAwe9qAAJuDwAC4eqxUNoxB5joJxGiHgQ") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -129,7 +129,7 @@ async def start(client, message):
                     ),
                     InlineKeyboardButton(
                         text="• ᴜᴘᴅᴀᴛᴇs •",
-                        url="https://t.me/codeflix_bots"
+                        url="https://t.me/RexieCatX_Bott"
                     ),
                 ]
                 
@@ -185,7 +185,7 @@ async def start(client, message):
         await m.edit_text("ꜱᴛᴀʀᴛɪɴɢ ʙᴀʙʏ...")
         await asyncio.sleep(0.4)
         await m.delete()        
-        m=await message.reply_sticker("CAACAgUAAxkBAAECroBmQKMAAQ-Gw4nibWoj_pJou2vP1a4AAlQIAAIzDxlVkNBkTEb1Lc4eBA") 
+        m=await message.reply_sticker("CAACAgQAAxkBAAIESGdckMdJQ4Ua86NE0Wm5WjqAwe9qAAJuDwAC4eqxUNoxB5joJxGiHgQ") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -1296,7 +1296,7 @@ async def donate_command(client, message):
 async def help_command(client, message):
     buttons = [
         [
-            InlineKeyboardButton("• ᴏᴘᴇɴ ɪɴ ᴘʀɪᴠᴀᴛᴇ •", url="https://t.me/Lucy_Filter_bot?start=help"),
+            InlineKeyboardButton("• ᴏᴘᴇɴ ɪɴ ᴘʀɪᴠᴀᴛᴇ •", url="https://t.me/SpeedMovies_bot?start=help"),
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
