@@ -51,7 +51,7 @@ STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/How_to_Download_7x/32'))
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 PREFIX = environ.get("PREFIX", "/")
 
-CHAT_GROUP = int(environ.get("CHAT_GROUP", " "))
+CHAT_GROUP = int(environ.get("CHAT_GROUP", "-1001964240282"))
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5223903292 6816205920').split()]
@@ -120,7 +120,7 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : NICK')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/riyasupportt') #Support group link ( make sure bot is admin )
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
-IMDB = is_enabled((environ.get('IMDB', "False")), False)
+IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
