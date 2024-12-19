@@ -44,8 +44,8 @@ REFER_PICS = (environ.get("REFER_PICS", "https://graph.org/file/1c1a3cb814cd719a
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'shareus.io'))
-STREAM_API = (environ.get('STREAM_API', ''))
-STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/How_to_Download_7x/32'))
+STREAM_API = (environ.get('STREAM_API', 'raXBls27RSYrdSsLIpwfjmR8Bm62'))
+STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/testingdb2/10'))
 
 # Command
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
@@ -97,13 +97,13 @@ LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002149166092')) #Log channel id 
 DUMP_CHNL = int(environ.get('DUMP_CHNL', '-1002168067069'))
 
 # Verify
-VERIFY = bool(environ.get('VERIFY', True)) # Verification On ( True ) / Off ( False )
+VERIFY = bool(environ.get('VERIFY', False)) # Verification On ( True ) / Off ( False )
 HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/testingdb2/10') # How to open tutorial link for verification
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.io')
 SHORTLINK_API = environ.get('SHORTLINK_API', 'raXBls27RSYrdSsLIpwfjmR8Bm62')
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
