@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ʟᴜᴄʏ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 R I Y A  2.0  B O T 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/a7122b6c65dad02b7008f.jpg">
+  <img src="https://graph.org/file/dc972f187ce1478ddf5cb-a22f9a655b5cb2dc37.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟᴜᴄʏ ʀᴏʙᴏᴛ](https://t.me/lucy_filter_bot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟᴜᴄʏ ʀᴏʙᴏᴛ](https://t.me/SpeedMovies_bot)**_
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
