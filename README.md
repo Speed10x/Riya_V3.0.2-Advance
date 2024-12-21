@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/dc972f187ce1478ddf5cb-a22f9a655b5cb2dc37.jpg">
+  <img src="https://graph.org/file/0bf3d27e93c90981b1d09-f8db5563bd6e8b5137.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʟᴜᴄʏ ʀᴏʙᴏᴛ](https://t.me/SpeedMovies_bot)**_
