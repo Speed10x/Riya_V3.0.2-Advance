@@ -2099,10 +2099,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
   
     elif query.data == "group_info":
         buttons = [[
-            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/RexieCatX_Bott")
+            InlineKeyboardButton('× ᴀʟʟ ᴏᴜʀ ʟɪɴᴋꜱ ×', url="https://t.me/prime_Flix0")
        ],[
             InlineKeyboardButton('• ɢʀᴏᴜᴘ •', url="t.me/RaxieCatX_Bottt"),
-            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="t.me/RaxieCatX_Bott")
+            InlineKeyboardButton('• ᴜᴘᴅᴀᴛᴇs •', url="https://t.me/RaxieCatX_Bott")
        ],[
             InlineKeyboardButton('• sᴇʀɪᴇsғʟɪx •', url="https://t.me/RexieCatX_Bott"),
             InlineKeyboardButton('• ᴍᴏᴠɪᴇғʟɪx •', url="https://t.me/RexieCatX_Bott")
@@ -2188,7 +2188,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "rendr":
-        await query.answer("⚡️ ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️\n\n❂ ʀᴀᴍ ●●●●●●●◌◌◌\n✇ ᴄᴘᴜ ●●●●●●●◌◌◌\n✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰\n\nᴠ4.4 [sᴛᴀʙʟᴇ] """, show_alert=True)
+        await query.answer("⚡️ ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️\n\n❂ ʀᴀᴍ ●●●●●●●◌◌◌\n✇ ᴄᴘᴜ ●●●●●●●◌◌◌\n✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰\n\nᴠ3.1 [sᴛᴀʙʟᴇ] """, show_alert=True)
 
     elif query.data == "sticker":
             buttons = [[
