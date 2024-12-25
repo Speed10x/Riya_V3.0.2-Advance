@@ -717,7 +717,7 @@ USAGE:
 ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @maximize0"""
     
     STATUS_TXT = """<b>    
-‣ ᴄᴜʀʀᴇɴᴛ sᴛᴀᴛs ᴏғ ʟᴜᴄʏ :
+‣ ᴄᴜʀʀᴇɴᴛ sᴛᴀᴛs ᴏғ Riya 2.0 :
 
 • ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ : <code>{}</code>
 • ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ : <code>{}</code>
@@ -968,7 +968,6 @@ IMDb Data: @maximize0
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-☀️ Languages : <code>{languages}</code>
 📀 RunTime: {runtime} Minutes
 
 
@@ -1147,7 +1146,7 @@ Requested by : {message.from_user.mention}</b>"""
 ● <code>250₹</code> ➛ <u>ᴘʟᴀᴛɪɴᴜᴍ ᴘʟᴀɴ</u> » <code>180 ᴅᴀʏꜱ</code>
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
-💵 ᴜᴘɪ ɪᴅ - <code>dm - @maximize0</code>
+💵 ᴜᴘɪ ɪᴅ - <code>dm - @maximize0 </code>
 📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/paytohemantfam-07-20'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
