@@ -962,7 +962,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
-IMDb Data: @maximize0
+IMDb Data: N ϟ C K࿐
 
 <b>🏷 Title</b>: <a href={url}>{title}</a>
 🎭 Genres: {genres}
